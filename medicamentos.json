@@ -1,0 +1,14 @@
+{
+    "Medi":[
+      {"id":"0","name":"Amoxilina", "description":"Antibiótico derivado de la penicilina"},
+      {"id":"1","name":"Aspirina", "description":"Reduce el dolor"},
+      {"id":"2","name":"Diazepam", "description":"Para la ansiedad"},
+      {"id":"3","name":"Diclofenaco", "description":"Trata la artritis"},  
+      {"id":"4","name":"Ibuprofeno", "description":"MTrata la fiebre, la hinchazón y el dolor"},
+      {"id":"5","name":"Ketorolaco", "description":"Aliviar el dolor moderadamente fuerte"},
+      {"id":"6","name":"Metamizol", "description":"Antiinflamatorio"},
+      {"id":"7","name":"Omeprazol", "description":"secreción de ácido del estómago"},
+      {"id":"8","name":"Pantoprazol", "description":"Reduce el acido"},
+      {"id":"9","name":"Paracetamol", "description":"Reduce el dolor"}
+       ]
+    }
