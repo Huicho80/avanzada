@@ -7,9 +7,9 @@
       {"id":"4","name":"Ibuprofeno", "description":"Medicamento que se usa para tratar la fiebre, la hinchazón y el dolor"},
       {"id":"5","name":"Ketorolaco", "description":"Medicamento que se se usa para aliviar el dolor moderadamente fuerte"},
       {"id":"6","name":"Metamizol", "description":"Antiinflamatorio no esteroideo derivado de la pirazolona"},
-      {"id":"7","name":"omeprazol", "description":"Medicamento que impide la secreción de ácido del estómago"},
-      {"id":"8","name":"pantoprazol", "description":"Consiste en disminuir la cantidad de ácido que se produce en el estómago"},
-      {"id":"9","name":"paracetamol", "description":"Analgésico y antipirético"}	
+      {"id":"7","name":"Omeprazol", "description":"Medicamento que impide la secreción de ácido del estómago"},
+      {"id":"8","name":"Pantoprazol", "description":"Consiste en disminuir la cantidad de ácido que se produce en el estómago"},
+      {"id":"9","name":"Paracetamol", "description":"Analgésico y antipirético"}	
     
       ]
     }
