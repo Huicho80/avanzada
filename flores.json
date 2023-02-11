@@ -1,15 +1,14 @@
 {
     "Flowers":[
       {"id":"0","name":"Amoxilina", "description":"Antibiótico semisintético derivado de la penicilina"},
-      {"id":"1","name":"Aspirina", "description":"Medicamento que reduce el dolor, la fiebre, la inflamación y la coagulación de la sangre"},
-      {"id":"2","name":"Diazepam", "description":"Medicamento usado para tratar la ansiedad leve a moderada y la tensión, y para relajar los músculos"},
-      {"id":"3","name":"Diclofenaco", "description":"Medicamento que se usa para tratar los síntomas de la artritis reumatoide "},  
+      {"id":"1","name":"Aspirina", "description":"Medicamento que reduce el dolor, la fiebre y la inflamación"},
+      {"id":"2","name":"Diazepam", "description":"Medicamento usado para tratar la ansiedad leve a moderada"},
+      {"id":"3","name":"Diclofenaco", "description":"Medicamento que se usa para tratar los síntomas de la artritis"},  
       {"id":"4","name":"Ibuprofeno", "description":"Medicamento que se usa para tratar la fiebre, la hinchazón y el dolor"},
       {"id":"5","name":"Ketorolaco", "description":"Medicamento que se se usa para aliviar el dolor moderadamente fuerte"},
       {"id":"6","name":"Metamizol", "description":"Antiinflamatorio no esteroideo derivado de la pirazolona"},
-      {"id":"7","name":"Omeprazol", "description":"Medicamento que impide la secreción de ácido del estómago"},
-      {"id":"8","name":"Pantoprazol", "description":"Consiste en disminuir la cantidad de ácido que se produce en el estómago"},
-      {"id":"9","name":"Generico", "description":"Analgésico y antipirético"}	
-    
-      ]
+      {"id":"7","name":"Aspirina", "description":"Medicamento que reduce el dolor, la fiebre y la inflamación"},
+      {"id":"8","name":"Aspirina", "description":"Medicamento que reduce el dolor, la fiebre y la inflamación"},
+      {"id":"9","name":"Aspirina", "description":"Medicamento que reduce el dolor, la fiebre y la inflamación"}
+       ]
     }
