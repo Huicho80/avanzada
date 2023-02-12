@@ -1,5 +1,5 @@
 {
-    "Medicine":[
+    "Medi":[
       {"id":"0","name":"Amoxilina", "description":"Antibiótico derivado de la penicilina"},
       {"id":"1","name":"Aspirina", "description":"Reduce el dolor"},
       {"id":"2","name":"Diazepam", "description":"Para la ansiedad"},
